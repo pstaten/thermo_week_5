@@ -1,6 +1,3 @@
-# Thermo Week 5
-A data file and a Jupyter Notebook script for my thermodynamics students
+# Thermo Weeks 5 and 6
+A couple of data files and a Jupyter Notebook script for my thermodynamics students, along with everything needed to build a Docker Image so that they can reliably run the needed python environment on their machines.
 
-Run the binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pstaten/thermo_week_5/HEAD)
-
-Or configure up a python environment on your machine that meets the dependencies listed in [environment.yml](environment.yml) file.
